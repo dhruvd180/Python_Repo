@@ -1,0 +1,2 @@
+class adder ():
+    print("Yay")
